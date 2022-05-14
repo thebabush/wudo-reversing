@@ -1,5 +1,9 @@
 # WUDO Swarm Protocol
 
+## TODO
+
+- Kaitai Struct of the protocol
+
 ## General info
 
 - `long` = `32 bit`
